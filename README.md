@@ -24,9 +24,6 @@ https://github.com/user-attachments/assets/a2e1c200-205c-4955-a46d-391fa9b6460a
 
 
 ### 结果演示
-<video src="./assets/result-demo.mp4" controls width="720">
-你的浏览器不支持 video 标签。可点击链接直接下载查看。
-</video>
 
 https://github.com/user-attachments/assets/894f8aee-042f-42e7-8989-c4b752ef392a
 
